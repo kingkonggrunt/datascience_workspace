@@ -7,3 +7,6 @@
 [submodule "DataScienceImmersive/Data_Science_Immersive_Project-3"]
 	path = DataScienceImmersive/Data_Science_Immersive_Project-3
 	url = git@github.com:kingkonggrunt/Data_Science_Immersive_Project-3.git
+[submodule "DataScienceImmersive/Data_Science_Immersive_Project-4"]
+	path = DataScienceImmersive/Data_Science_Immersive_Project-4
+	url = git@github.com:kingkonggrunt/Data_Science_Immersive_Project-4.git
